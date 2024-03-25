@@ -1,0 +1,8 @@
+#pictureZen{
+    position: absolute;
+    width: 100px;
+	height: 100px;
+	background: red;
+    left: 0;
+    top: 0;
+}
